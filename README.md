@@ -1,5 +1,5 @@
 # vodlocker-stream
-Parses the movie/tv title have entered and streams it through vlc player afterwards
+Parses the movie/tv title you have entered and streams it through vlc player afterwards
 
 ## Requirements
 Requests - pip install requests
