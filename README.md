@@ -1,6 +1,10 @@
 # vodlocker-stream
 Parses the movie/tv title you have entered and streams it through vlc player afterwards
 
+Important for Windows Users:
+
+You have to set up the Environment Path to your VLC, like you might did with Python.
+
 ## Requirements
 Requests - pip install requests
 
