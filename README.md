@@ -4,6 +4,7 @@ Parses the movie/tv title you have entered and streams it through vlc player aft
 Important for Windows Users:
 
 You have to set up the Environment Path to your VLC, like you might did with Python.
+    [Setup Environment](http://geekswithblogs.net/renso/archive/2009/10/21/how-to-set-the-windows-path-in-windows-7.aspx)
 
 ## Requirements
 Requests - pip install requests
