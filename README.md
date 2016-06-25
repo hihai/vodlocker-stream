@@ -4,6 +4,8 @@ Parses the movie/tv title have entered and streams it through vlc player afterwa
 ## Requirements
 Requests - pip install requests
 
+BeautifulSoup - pip install beautifulsoup4
+
 VLC Player
 
 ### Usage
