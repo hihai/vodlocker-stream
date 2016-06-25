@@ -12,3 +12,5 @@ VLC Player
 python vodlock.py house of cards S01E01
 
 python vodlock.py the hobbit
+
+same goes for python3 vodlock.py ...
